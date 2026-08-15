@@ -1,0 +1,11 @@
+{
+  "name": "A Simple Node.js Project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for demonstration purposes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "bash test.sh"
+  },
+  "dependencies": {}
+}
+
